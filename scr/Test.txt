@@ -1,0 +1,108 @@
+Category	Sub-category	French Verb/Expression	English Translation	Frequency	Example Sentence
+Wish/Command	Desire & Want	vouloir que	to want that	★★★★★ (Very High)	Je veux que tu sois heureux.
+		désirer que	to desire that	★★★★☆ (High)	Ils désirent que les négociations aboutissent.
+		souhaiter que	to wish that	★★★★☆ (High)	Elle souhaite que son projet réussisse.
+	Preference	préférer que	to prefer that	★★★★★ (Very High)	Je préfère que nous restions ici.
+		aimer mieux que	to like better/would rather that	★★★☆☆ (Medium)	J'aime mieux que tu me dises la vérité.
+	Request & Suggestion	demander que	to ask/request that	★★★★★ (Very High)	Il demande que nous arrivions à l'heure.
+		proposer que	to propose/suggest that	★★★★☆ (High)	Je propose que nous fassions une pause.
+		suggérer que	to suggest that	★★★★☆ (High)	Pierre suggère que tu essaies ce restaurant.
+		recommander que	to recommend that	★★★☆☆ (Medium)	Le médecin recommande qu'il se repose.
+		exiger que	to demand that	★★★★☆ (High)	Le contrat exige que tout soit signé.
+		ordonner que	to order that	★★★☆☆ (Medium)	Le juge ordonne que la salle se taise.
+		commander que	to command that	★★★☆☆ (Medium)	Le capitaine commande que les portes soient fermées.
+		insister pour que	to insist that	★★★★☆ (High)	Elle insiste pour que vous veniez dîner.
+		tenir à ce que	to insist (on it) that	★★★☆☆ (Medium)	Je tiens à ce qu'il comprenne mes raisons.
+	Prohibition	interdire que	to forbid that	★★★☆☆ (Medium)	La règle interdit qu'on mange en classe.
+Emotion	Happiness & Joy	être content/heureux que	to be happy that	★★★★★ (Very High)	Nous sommes contents que vous puissiez venir.
+		être ravi(e) que	to be delighted that	★★★☆☆ (Medium)	Je suis ravi que vous acceptiez notre invitation.
+		se réjouir que	to be delighted that	★★★☆☆ (Medium)	Je me réjouis que tout se passe bien.
+		être satisfait(e) que	to be satisfied that	★★★☆☆ (Medium)	Le client est satisfait que le problème soit résolu.
+		adorer que	to love (it) that	★★★☆☆ (Medium)	J'adore que vous veniez nous voir.
+	Sadness & Regret	être triste que	to be sad that	★★★★☆ (High)	Elle est triste que son ami parte.
+		être désolé(e) que	to be sorry that	★★★★☆ (High)	Je suis désolé qu'il pleuve pour votre pique-nique.
+		regretter que	to regret that	★★★☆☆ (Medium)	Je regrette que la situation soit si tendue.
+		être déçu(e) que	to be disappointed that	★★★☆☆ (Medium)	Nous sommes déçus que le spectacle soit annulé.
+		être malheureux que	to be unhappy that	★★☆☆☆ (Low-Medium)	Elle est malheureuse que ses enfants habitent si loin. 
+	Fear & Worry	avoir peur que	to be afraid that	★★★★★ (Very High)	J'ai peur qu'ils ne soient perdus.
+		craindre que	to fear that	★★★★☆ (High)	Ils craignent que la réunion ne soit annulée.
+		être effrayé(e) que	to be frightened that	★★☆☆☆ (Low-Medium)	Je suis effrayé qu'une telle chose puisse arriver ici.
+	Surprise & Astonishment	être surpris(e) que	to be surprised that	★★★★☆ (High)	Tu es surpris qu'il ait dit oui ?
+		être étonné(e) que	to be astonished that	★★★☆☆ (Medium)	Je suis étonné que personne n'ait protesté.
+	Annoyance & Dislike	détester que	to hate (it) that	★★★☆☆ (Medium)	Il déteste qu'on le dérange pendant son travail.
+		être ennuyé(e) que	to be annoyed that	★★☆☆☆ (Low)	Elle est ennuyée que son colis ne sois pas arrivé.
+Doubt/ Uncertainty	Direct Doubt	douter que	to doubt that	★★★★☆ (High)	Je doute qu'il ait assez d'argent.
+		il est douteux que	it's doubtful that	★★★☆☆ (Medium)	Il est douteux qu'ils trouvent un accord.
+	Denial & Contradiction	nier que	to deny that	★★★☆☆ (Medium)	L'accusé nie qu'il connaisse le témoin.
+		contester que	to contest that	★★☆☆☆ (Low)	Peux-tu contester que ce soit la meilleure solution ?
+	Impersonal Uncertainty	il est peu probable que	it's unlikely that	★★★★☆ (High)	Il est peu probable qu'il pleuve demain.
+		il n'est pas certain que	it's not certain that	★★★★☆ (High)	Il n'est pas certain que le vol décolle à l'heure.
+		il n'est pas sûr que	it's not sure that	★★★★☆ (High)	Il n'est pas sûr qu'elle vienne seule.
+		il n'est pas probable que	it's not probable that	★★★☆☆ (Medium)	Il n'est pas probable que les prix baissent.
+		il se peut que	it may be that	★★★★☆ (High)	Il se peut que je sois en retard.
+		il n'est pas clair que	it's not clear that	★★☆☆☆ (Low)	Il n'est pas clair que ces mesures soient efficaces.
+		il n'est pas évident que	it's not obvious that	★★☆☆☆ (Low)	Il n'est pas évident qu'il ait compris.
+	Hypothesis	supposer que / admettre que (hypothetical)	to suppose that / to admit that (for argument's sake)	★★☆☆☆ (Low-Medium)	Supposons qu'il pleuve demain. Quel est le plan B ?
+	General Necessity	falloir que (il faut que)	to be necessary that	★★★★★ (Very High)	Il faut que tu fasses tes devoirs.
+		il est nécessaire que	it's necessary that	★★★★☆ (High)	Il est nécessaire qu'un expert vérifie cela.
+		il est indispensable que	it's indispensable that	★★★☆☆ (Medium)	Il est indispensable que tu aies ce document.
+	Importance	il est important que	it's important that	★★★★★ (Very High)	Il est important que vous respectiez les règles.
+		il est essentiel que	it's essential that	★★★★☆ (High)	Il est essentiel que nous agissions maintenant.
+		il est capital que	it's crucial that	★★★☆☆ (Medium)	Il est capital que ce dossier reste confidentiel.
+		il est crucial que	it's crucial that	★★★☆☆ (Medium)	Il est crucial que tout le monde participe.
+		il est fondamental que	it's fundamental that	★★☆☆☆ (Low)	Il est fondamental que la justice soit rendue.
+	Urgency & Obligation	il est urgent que	it's urgent that	★★★☆☆ (Medium)	Il est urgent que le médecin vienne.
+		il est obligatoire que	it's obligatory that	★★☆☆☆ (Low)	Il est obligatoire que les enfants portent un casque.
+Impersonal Expressions	Possibility & Impossibility	il est possible que	it's possible that	★★★★★ (Very High)	Il est possible qu'il neige ce week-end.
+		il est impossible que	it's impossible that	★★★★☆ (High)	Il est impossible qu'elle soit déjà arrivée.
+	Judgment (Good/Bad)	il est bon que	it's good that	★★★☆☆ (Medium)	Il est bon que tu penses à ton avenir.
+		il est dommage que	it's a pity that	★★★★☆ (High)	Il est dommage qu'il ait manqué ce spectacle.
+		il est injuste que	it's unfair that	★★★☆☆ (Medium)	Il est injuste que lui seul sois puni.
+		il est préférable que	it's preferable that	★★★☆☆ (Medium)	Il est préférable que vous réserviez à l'avance.
+		il vaut mieux que	it's better that	★★★★★ (Very High)	Il vaut mieux que tu partes avant la foule.
+		il est ridicule que	it's ridiculous that	★★☆☆☆ (Low)	Il est ridicule qu'un tel détail cause tant de problèmes.
+	Judgment (Normal/Expected)	il est naturel que	it's natural that	★★★☆☆ (Medium)	Il est naturel que tu sois nerveux avant l'examen.
+		il est normal que	it's normal that	★★★★☆ (High)	Il est normal qu'elle veuille des explications.
+	Judgment (Rarity)	il est rare que	it's rare that	★★★★☆ (High)	Il est rare qu'un tel accord soit trouvé si vite.
+	Surprise & Strangeness	il est étrange que	it's strange that	★★★☆☆ (Medium)	Il est étrange qu'elle n'ait pas répondu.
+		il est étonnant que	it's astonishing that	★★★☆☆ (Medium)	Il est étonnant qu'il n'ait rien vu.
+		il est incroyable que	it's incredible that	★★★☆☆ (Medium)	Il est incroyable qu'il ait réussi cet exploit.
+	Time	il est temps que	it's time that	★★★★☆ (High)	Il est temps que tu apprennes la vérité.
+	Propriety	il est convenable que	it's proper/fitting that	★★☆☆☆ (Low)	Il est convenable que le président prononce un discours.
+	Appearance	il semble que	it seems that	★★★★☆ (High)	Il semble qu'il ait changé d'avis.
+Opinion & Judgment	Approval/Disapproval	approuver que	to approve that	★★☆☆☆ (Low)	Je n'approuve pas qu'il agisse ainsi.
+		désapprouver que	to disapprove that	★★☆☆☆ (Low)	Le comité désapprouve que les fonds soient utilisés de la sorte.
+	Personal Finding	trouver bon/mauvais que	to find it good/bad that	★★★☆☆ (Medium)	Je trouve bon que vous en parliez ouvertement.
+	Personalized Doubt	il ne me (te, lui...) semble pas que	it doesn't seem to me/you/him that	★★★☆☆ (Medium)	Il ne me semble pas que cette solution soit viable.
+	Impersonal Judgment	il est (bizarre / curieux) que	it's (odd / curious) that	★★★☆☆ (Medium)	Il est bizarre que la lumière soit allumée.
+		il est (juste / logique) que	it's (right / logical) that	★★★☆☆ (Medium)	Il est juste qu'il présente ses excuses.
+	Disapproval/Indignation	ne pas comprendre que	to not understand (how/that)	★★★☆☆ (Medium)	Je ne comprends pas qu'il ait été pardonné si facilement.
+Irregular/Misc	Temporal	attendre que	to wait until	★★★★★ (Very High)	Attends que je sois prêt.
+	Prevention	éviter que	to avoid that	★★★★☆ (High)	Parle doucement pour éviter qu'il ne se réveille.
+	Prevention	empêcher que	to prevent that	★★★☆☆ (Medium)	La barrière empêche que les enfants ne sortent.
+	Acceptance	accepter que	to accept that	★★★☆☆ (Medium)	J'accepte que tu aies un avis différent.
+Prevention & Hindrance	Precaution	prendre des précautions pour que	to take precautions so that	★☆☆☆☆ (Low)	Prenons des précautions pour qu'aucun accident n'arrive.
+	Restraint	se garder de	to be careful not to	★☆☆☆☆ (Low)	Garde-toi de lui dire quoi faire.
+Negation of Belief	Negative Thought	ne pas croire que	to not believe that	★★★★★ (Very High)	Je ne crois pas qu'il sois honnête.
+		ne pas penser que	to not think that	★★★★★ (Very High)	Elle ne pense pas que ce soit une bonne idée.
+		ne pas trouver que	to not find that	★★★★☆ (High)	Je ne trouve pas qu'il faisse très chaud.
+Conjunctions	Purpose	pour que	so that	★★★★★ (Very High)	Je le fais pour que tu sois fier.
+		afin que	in order that	★★★★☆ (High)	Elle parle lentement afin que tout le monde comprenne.
+		de sorte que / de manière que / de façon que	in such a way that, so that	★★★☆☆ (Medium)	Agis de sorte que personne ne soit blessé.
+	Condition	à moins que	unless	★★★★☆ (High)	Le match aura lieu à moins qu'il ne pleuve.
+		à condition que	on condition that	★★★★☆ (High)	Je te le prête à condition que tu en prends soin.
+		pourvu que	provided that	★★★☆☆ (Medium)	Tu peux sortir, pourvu que tu rentres avant minuit.
+	Concession	bien que	although	★★★★☆ (High)	Bien qu'il sois fatigué, il a continué.
+		quoique	although	★★★☆☆ (Medium)	Quoiqu'il sois jeune, il est très mature.
+		non que / ce n'est pas que	not that / it's not that	★★☆☆☆ (Low)	Je refuse, non que je sois méchant, mais par principe.
+	Time	jusqu'à ce que	until	★★★★☆ (High)	Reste ici jusqu'à ce que je revienne.
+		avant que	before	★★★★★ (Very High)	Viens me voir avant que je ne parte.
+		en attendant que	while waiting for	★★★☆☆ (Medium)	En attendant que le dîner soit prêt, lis un livre.
+	Manner	sans que	without	★★★★☆ (High)	Il est parti sans qu'on le voie.
+	Fear	de crainte que / de peur que	for fear that	★★★☆☆ (Medium)	Chuchote de crainte qu'il ne nous entende.
+		de peur que / de crainte que	for fear that	★★☆☆☆ (Low-Medium)	Je ferme la porte de peur qu'il n'entre.
+	Indefinite	qui que	whoever	★★☆☆☆ (Low)	Qui que tu sois, respecte les lois.
+		quoi que	whatever (no matter what)	★★☆☆☆ (Low)	Quoi que tu dises, je te soutiendrai.
+		où que	wherever	★★☆☆☆ (Low)	Où que tu ailles, tu trouveras des amis.
+	Alternative	soit que... soit que	whether... or	★★☆☆☆ (Low)	Soit qu'il pleuve, soit qu'il vente, la course aura lieu.
+	EXCEPTION (Indicative)	tandis que	while (temporal)	N/A	J'ai cuisiné tandis qu'elle lisait. 
